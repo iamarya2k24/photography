@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "/photography"
+baseurl: "https://ddraffft.in/photography"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
