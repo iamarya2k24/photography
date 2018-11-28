@@ -1,7 +1,7 @@
 # Base configs
 baseurl: "https://ddraffft.in/photography"
-image_fulls_loc: "{site.baseurl}/images/fulls"
-image_thumbs_loc: "{site.baseurl}/images/thumbs"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
