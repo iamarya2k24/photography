@@ -45,6 +45,7 @@ You can make the contact form work without the need of any server-side code. Jus
 Or you can use service like **[Formspree](https://formspree.io)**
 
 <h2 id='credits'> Credits</h2>
+
 Thanks to [AJ](https://twitter.com/ajlkn) for the website template which I([Ram Patra](https://github.com/rampatra/photography)) enhanced for [jekyll](http://jekyllrb.com/).
 
 
