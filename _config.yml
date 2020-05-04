@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://i.navnee.tk/photography"
+baseurl: "https://i.navnee.tk/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-91168140-2"
