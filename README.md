@@ -1,4 +1,4 @@
-# photography.ddraffft.in
+# My Photo Collection
 A simple jekyll powered Photography Portfolio.
 
 [![Issues](https://img.shields.io/github/issues/Navneet-Suresh/photography.svg?style=flat-square)](https://github.com/Navneet-Suresh/photography/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/photography.svg?style=flat-square)](https://github.com/Navneet-Suresh/photography/blob/master/LICENSE?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
