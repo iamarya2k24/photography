@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://i.navnee.tk/photography/"
+baseurl: "https://iamarya2k24.github.io/photography/"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 # google_analytics: ""
@@ -7,7 +7,7 @@ image_thumbs_loc: "/images/thumbs"
 # UI configs
 title: "Photography by Navneethakrishnan"
 subtitle: "My photography collection"
-author: "Navneethakrishnan"
+author: "Navneet"
 header:
  title: "Photography"
  subtitle: "by Navneet"
@@ -16,6 +16,6 @@ footer:
  bio: "Amateur Photographer, Software Consultant/Linux SysAdmin, Football Fanatic"
 web_design: "By AJ and Jekylled by Ram Patra"
 social_urls:
-  dribbble: "https://dribbble.com/navneethakrishnan"
-  linkedin: "https://in.linkedin.com/in/navneethakrishnan"
-  github: "https://www.github.com/navneet-suresh"
+  dribbble: "https://dribbble.com/"
+  linkedin: "https://in.linkedin.com/in/"
+  github: "https://www.github.com/"
